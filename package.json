@@ -24,5 +24,6 @@
     "sqlite": "^5.1.1",
     "sqlite3": "^5.1.7"
   },
-  "description": "npm run dev"
+  "description": "npm run dev",
+  "devDependencies": {}
 }
